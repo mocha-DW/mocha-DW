@@ -24,6 +24,6 @@ Engaging with the tech community to collaborate and grow.
 I recently started a YouTube channel dedicated to educational content. Check it out here!
 
 📫 Let's Connect!
-LinkedIn: Your LinkedIn Profile
-Portfolio: Your Website/Portfolio Link
+LinkedIn: https://www.linkedin.com/in/digambar-waghmare-8a6b5a243/
+Portfolio: https://digambar.framer.website/
 Email: wdigamba66@gmail.com
